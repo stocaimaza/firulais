@@ -57,3 +57,9 @@ header {
 .card {
     margin: 0.5rem;
 }
+
+/* FOOTER */
+
+footer {
+    background-color: cadetblue;
+}
