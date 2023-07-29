@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+/* HEADER */
+
+.logo {
+    width: 10rem;
+}
+
+header {
+    border-bottom: 1px solid #c1101a;
+}
+
+.fuentes {
+    font-size: 1.5rem;
+    padding: 2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.fuentes li a:hover {
+    background-color: #c1101a;
+    color: #fff;
+}
+
+/* HERO */
+
+.colorBtn {
+    background-color: #c1101a;
+    color: #fff;
+}
+
+.colorBtn:hover {
+    background-color: #a10000;
+    color: #fff;
+}
+
+/* PRODUCTOS  */
+
+.titulosProductos {
+    background-color: #c1101a;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.titulosProductos h2 {
+    font-size: 3rem;
+}
+
+
+.card {
+    margin: 0.5rem;
+}
